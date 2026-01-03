@@ -1,0 +1,9 @@
+Label: Tang Nano 20K
+Device: GW2AR-18
+Package: QN88
+Documentation: https://wiki.sipeed.com/hardware/en/tang/tang-nano-20k/nano-20k.html
+Prog:
+  ID: "0403:6010"
+  Tools:
+    - BL616
+    - openFPGALoader
